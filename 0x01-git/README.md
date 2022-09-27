@@ -1,2 +1,1 @@
-my second commit
-I'm now updated
+my second commit updated
